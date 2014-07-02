@@ -1,0 +1,10 @@
+a = 1
+puts "Enter the number of rows of Floyd's triangle to print\n"
+n = gets.to_i
+for i in 1..n
+ for c in 1..i
+   printf "#{a} "
+   a = a + 1
+ end
+ printf "\n"
+end
