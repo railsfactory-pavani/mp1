@@ -1,12 +1,11 @@
-require 'scanf'
 arr = Array.new(100)
-puts "Enter the number of elements"
+printf "Enter the number of elements\n"
 n = gets.to_i
-puts "Enter #{n} integers"
+printf "Enter #{n} integers\n"
   for c in 0...n
     arr[c] = gets.to_i
   end
-  puts "Enter value to find"
+  printf "Enter value to find\n"
   search = gets.to_i
   first = 0
   last = n - 1
