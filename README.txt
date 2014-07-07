@@ -43,27 +43,27 @@ programs that are completed:
 41.Concatenate strings
 42.Reverse string
 43.Find palindrome
-  
-Todo list
+44.reverse arrays
+45.change case
+46.Read file
+47.Copy files
+48.Delete file
+49.swap strings
+50.Random numbers
+51.Add complex numbers
+52.Print date
+53.Get IP address
+54.List files in a directory
 
-1.Addition using pointers
-2.Merge arrays
-3.reverse arrays
-4.Delete vowels
-5.C substring
-6.Sort a string
-7.Remove spaces
-8.Change case
-9.Swap strings
-10.Character's frequency
-11.Anagrams
-12.Read file
-13.Copy files
-14.Merge two files
-15.List files in a directory
-16.Delete file
-17.Random numbers
-18.Add complex numbers
-19.Print date
-20.Get IP address
-21.Shutdown computer
+Programs remaining               Reason
+  
+1.Merge arrays            =>  infinite for loop   
+2.Delete vowels           =>  There is no representation for null character in ruby  
+3.Remove spaces           =>  There is no representation for null character in ruby  
+4.Character's frequency   =>  There is no representation for null character in ruby
+5.Anagrams                =>  There is no representation for null character in ruby
+6.Merge two files         =>  couldn't find any method in ruby to merge files 
+7.Shutdown computer
+8.Addition using Pointers =>  Pointers concept is not there in ruby
+9.C Substring             =>  Pointers concept is not there in ruby
+10.Sort a string          =>  Pointers concept is not there in ruby
