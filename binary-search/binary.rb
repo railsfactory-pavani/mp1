@@ -12,9 +12,9 @@ printf "Enter #{n} integers\n"
   middle = (first + last)/2
 
   while first <= last do 
-      if ( arr[middle] < search )
+      if arr[middle] < search 
          first = middle + 1    
-      elsif ( arr[middle] == search ) 
+      elsif arr[middle] == search 
          printf "#{search} found at location #{middle + 1}"
          break
       else
