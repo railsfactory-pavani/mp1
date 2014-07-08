@@ -54,6 +54,7 @@ programs that are completed:
 52.Print date
 53.Get IP address
 54.List files in a directory
+55.Shutdown computer
 
 Programs remaining               Reason
   
@@ -62,8 +63,7 @@ Programs remaining               Reason
 3.Remove spaces           =>  There is no representation for null character in ruby  
 4.Character's frequency   =>  There is no representation for null character in ruby
 5.Anagrams                =>  There is no representation for null character in ruby
-6.Merge two files         =>  couldn't find any method in ruby to merge files 
-7.Shutdown computer
-8.Addition using Pointers =>  Pointers concept is not there in ruby
-9.C Substring             =>  Pointers concept is not there in ruby
-10.Sort a string          =>  Pointers concept is not there in ruby
+6.Merge two files         =>  couldn't find any file opertaion in ruby to merge files 
+7.Addition using Pointers =>  Pointers concept is not there in ruby
+8.C Substring             =>  Pointers concept is not there in ruby
+9.Sort a string           =>  Pointers concept is not there in ruby
