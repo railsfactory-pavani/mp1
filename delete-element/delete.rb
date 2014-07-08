@@ -7,7 +7,7 @@ puts "Enter #{n} integers"
  end
  puts "Enter the location where you wish to delete an element"
  position = gets.to_i
-  if ( position >= n+1 )
+  if position >= n+1 
       puts "Deletion not possible"
   else
     for c in (position - 1)...(n - 1)
