@@ -4,7 +4,7 @@ b = Array.new(100)
  a = gets.chomp
  puts "enter the second string"
  b = gets.chomp
-   if(a <=>b) == 0
+   if a <=>b  == 0
      puts "entered strings are equal"
    else
      puts "entered strings are not equal"
