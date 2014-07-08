@@ -1,8 +1,8 @@
 class Ncr
  def input
    puts "enter the value of n and r"
-   n=gets.chomp.to_i
-   r=gets.chomp.to_i
+   n = gets.chomp.to_i
+   r = gets.chomp.to_i
    ncr = fact(n)/(fact(r)*fact(n-r))
    puts "#{n}C#{r} = #{ncr}"
    npr = fact(n)/fact(n-r)
@@ -16,6 +16,6 @@ class Ncr
    return fact
  end
 end
-p=Ncr.new
+p = Ncr.new
 p.input
 
