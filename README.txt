@@ -55,15 +55,15 @@ programs that are completed:
 53.Get IP address
 54.List files in a directory
 55.Shutdown computer
+56.Merge arrays
+
 
 Programs remaining               Reason
   
-1.Merge arrays            =>  infinite for loop   
-2.Delete vowels           =>  There is no representation for null character in ruby  
-3.Remove spaces           =>  There is no representation for null character in ruby  
-4.Character's frequency   =>  There is no representation for null character in ruby
-5.Anagrams                =>  There is no representation for null character in ruby
-6.Merge two files         =>  couldn't find any file opertaion in ruby to merge files 
-7.Addition using Pointers =>  Pointers concept is not there in ruby
-8.C Substring             =>  Pointers concept is not there in ruby
-9.Sort a string           =>  Pointers concept is not there in ruby
+1.Remove spaces           =>  There is no representation for null character in ruby  
+2.Character's frequency   =>  There is no representation for null character in ruby
+3.Anagrams                =>  There is no representation for null character in ruby
+4.Merge two files         =>  couldn't find any file opertaion in ruby to merge files 
+5.Addition using Pointers =>  Pointers concept is not there in ruby
+6.C Substring             =>  Pointers concept is not there in ruby
+7.Sort a string           =>  Pointers concept is not there in ruby
